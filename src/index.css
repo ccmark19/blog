@@ -1,13 +1,28 @@
+html,
+body {
+  /* background: #27262c url(./img/noise.svg); */
+  background: black url(./img/noise.svg);
+  /* filter: contrast(110%); */
+  /* brightness(50%); */
+}
+
+#app,
+#root,
+.App {
+  min-block-size: 100vh;
+  inset: 0;
+  font-family: "Kanit", sans-serif;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: "Poppins";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
