@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ht%20tps://ccmark19.github.io/blog%20/static/css/main.727b2488.css",
-    "main.js": "/ht%20tps://ccmark19.github.io/blog%20/static/js/main.8a0b43f2.js",
-    "static/js/787.f587e8d5.chunk.js": "/ht%20tps://ccmark19.github.io/blog%20/static/js/787.f587e8d5.chunk.js",
-    "static/media/ske.png": "/ht%20tps://ccmark19.github.io/blog%20/static/media/ske.11bfe9db7ebe5cbd1dbe.png",
-    "static/media/ski.png": "/ht%20tps://ccmark19.github.io/blog%20/static/media/ski.7c91e1f8670d5f4693ba.png",
-    "index.html": "/ht%20tps://ccmark19.github.io/blog%20/index.html",
-    "static/media/noise.svg": "/ht%20tps://ccmark19.github.io/blog%20/static/media/noise.d4edf6911433a9036b15.svg",
-    "main.727b2488.css.map": "/ht%20tps://ccmark19.github.io/blog%20/static/css/main.727b2488.css.map",
-    "main.8a0b43f2.js.map": "/ht%20tps://ccmark19.github.io/blog%20/static/js/main.8a0b43f2.js.map",
-    "787.f587e8d5.chunk.js.map": "/ht%20tps://ccmark19.github.io/blog%20/static/js/787.f587e8d5.chunk.js.map"
+    "main.css": "/blog/static/css/main.a13615a1.css",
+    "main.js": "/blog/static/js/main.ea30fe14.js",
+    "static/js/787.f587e8d5.chunk.js": "/blog/static/js/787.f587e8d5.chunk.js",
+    "static/media/ske.png": "/blog/static/media/ske.11bfe9db7ebe5cbd1dbe.png",
+    "static/media/ski.png": "/blog/static/media/ski.7c91e1f8670d5f4693ba.png",
+    "index.html": "/blog/index.html",
+    "static/media/noise.svg": "/blog/static/media/noise.d4edf6911433a9036b15.svg",
+    "main.a13615a1.css.map": "/blog/static/css/main.a13615a1.css.map",
+    "main.ea30fe14.js.map": "/blog/static/js/main.ea30fe14.js.map",
+    "787.f587e8d5.chunk.js.map": "/blog/static/js/787.f587e8d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.727b2488.css",
-    "static/js/main.8a0b43f2.js"
+    "static/css/main.a13615a1.css",
+    "static/js/main.ea30fe14.js"
   ]
 }
