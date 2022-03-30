@@ -38,3 +38,14 @@ $secondary-padding-left: 20%;
 .Data-keyword {
   color: #f0a500;
 }
+@media only screen and (max-width: 768px) {
+  .Comp-content {
+    padding-inline: 1.5em;
+  }
+  .Data-desc {
+    font-size: 1.3em;
+  }
+  .Comp-inner-content {
+    padding-inline: 1.5em;
+  }
+}
