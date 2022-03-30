@@ -1,6 +1,5 @@
 import "./profile.scss";
-import ske from "./img/ske.png";
-import ski from "./img/ski.png";
+import ske from "./img/ske_corped.webp";
 
 function App() {
   return (
@@ -11,28 +10,11 @@ function App() {
           src={ske}
           alt="art"
           style={{
-            height: "500px",
-            width: "300px",
-            // figure out your image aspect ratio
-            aspectRatio: 135 / 76,
+            height: "237px",
+            width: "100px",
           }}
         />
-        {/* <img
-          className="Data-img-ski"
-          src={ski}
-          alt="art"
-          style={{
-            height: "311px",
-            width: "382px",
-            // figure out your image aspect ratio
-            aspectRatio: 135 / 76,
-          }}
-        /> */}
         <div className="Comp-inner-content">
-          {/* <h1 className="Data-title m-0">
-            <span>Welcome </span>
-            <span>I'm Hanxiang Li</span>
-          </h1> */}
           <p className="Data-desc m-0">
             <span className="primary">
               <span className="Data-keyword">Hanxiang</span> (Hanxiang Li to his

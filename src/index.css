@@ -1,6 +1,5 @@
 html,
 body {
-  /* background: #27262c url(./img/noise.svg); */
   background: black url(./img/noise.svg);
   /* filter: contrast(110%); */
   /* brightness(50%); */
@@ -9,7 +8,7 @@ body {
 #app,
 #root,
 .App {
-  min-block-size: 100vh;
+  min-block-size: 100%;
   inset: 0;
   font-family: "Kanit", sans-serif;
   background-repeat: no-repeat;
